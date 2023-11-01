@@ -20,8 +20,7 @@
 
 title: Chilli Padi
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a collection of how-to & whys re: admin work required for 
-  registering the birth of your Singaporean baby born overseas.
+  Help for first-time Singaporean parents based overseas
 baseurl: "/chilli-padi" # the subpath of your site, e.g. /blog
 url: "https://kelvintaywl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kelvintaywl

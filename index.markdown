@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Introduction
+title: Preface
 nav_exclude: true
 ---
 
-# Introduction
+# About Chilli Padi
+
+> Help for first-time Singaporean parents based overseas
 
 My wife and I welcomed our first child in September 2023. He was born overseas (Japan).
 
