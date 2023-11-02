@@ -8,7 +8,8 @@ nav_order: 1
 
 Pause, and take a deep breath.
 
-_You are going to be the best parent you can be._
+Congratulations on being parents! 💃🕺
+_You and your partner are going to be the best parents you can be._
 
 Paperwork is just one of those tasks in this journey.
 
