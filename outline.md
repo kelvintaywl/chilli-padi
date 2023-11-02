@@ -6,10 +6,11 @@ nav_order: 1
 
 # Outline
 
-Take a deep breath.
+Pause, and take a deep breath.
 
-You are going to be the best parent you can be!
-Paperwork is just one of those tasks in that quest.
+_You are going to be the best parent you can be._
+
+Paperwork is just one of those tasks in this journey.
 
 ## Prerequisites
 
@@ -26,3 +27,5 @@ Here is what we will be doing step-by-step, for your child:
 3. Translate Supporting Documents
 4. Apply for Baby's citizenship online
 5. Apply for Baby Bonus
+
+Let's talk about birth certificates, as a first step.
