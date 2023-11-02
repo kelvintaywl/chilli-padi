@@ -17,4 +17,6 @@ Chilli Padi is the guide I wished I had at the start: A guided series of how-tos
 If you are a first-time Singaporean parent like myself, note that you're not alone!
 I hope this documentation helps you out.
 
+![Got his passport at the Singapore Embassy in Tokyo!](assets/img/embassy.jpg)
+
 [Let's go!](outline.md)
