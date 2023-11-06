@@ -23,10 +23,10 @@ I assume you already have the following:
 
 Here is what we will be doing step-by-step, for your child:
 
-1. Obtain Birth Certificate
-2. Take Baby's Passport Photo
-3. Translate Supporting Documents
-4. Apply for Baby's citizenship online
-5. Apply for Baby Bonus
+1. [Obtain Birth Certificate](./birth-cert.md)
+2. [Take Baby's Passport Photo](./passport-photo.md)
+3. [Translate Supporting Documents](./translate.md)
+4. [Apply for Baby's citizenship online](./citizenship.md)
+5. [Apply for Baby Bonus](./baby-bonus.md)
 
 Let's talk about birth certificates, as a first step.
